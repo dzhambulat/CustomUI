@@ -12,9 +12,9 @@ const styles = StyleSheet.create({
 
 
 export default function SettingsScreen() {
-    return (
-      <View styles={styles.container}>
-        <Text>Settings</Text>
-      </View>
-    );
-  }
+  return (
+    <View>
+      <Text>Settings</Text>
+    </View>
+  );
+}
