@@ -9,24 +9,24 @@ import { Ionicons } from "@expo/vector-icons";
 const styles = StyleSheet.create({
   subbutton1: {
     borderRadius: "50%",
-    height: "15px",
-    width: "15px",
+    height: "25px",
+    width: "25px",
     backgroundColor: 'green',
     top: 75,
     left: 13
   },
   subbutton2: {
     borderRadius: "50%",
-    height: "15px",
-    width: "15px",
+    height: "25px",
+    width: "25px",
     backgroundColor: 'green',
     top: 75,
     left: 28
   },
   subbutton3: {
     borderRadius: "50%",
-    height: "15px",
-    width: "15px",
+    height: "25px",
+    width: "25px",
     backgroundColor: 'green',
     top: 70,
     left: 41
